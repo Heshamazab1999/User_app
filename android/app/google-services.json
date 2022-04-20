@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025857724114",
+    "project_id": "almizan-fb934",
+    "storage_bucket": "almizan-fb934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025857724114:android:add94f858ebe5eb21d170b",
+        "android_client_info": {
+          "package_name": "com.mywork.elmizan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025857724114-i529dkfu80a4da96ef9t9p3elm306uvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5eSFEGeYi8L9bk-5k1-4HvauadPtomrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025857724114-i529dkfu80a4da96ef9t9p3elm306uvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
