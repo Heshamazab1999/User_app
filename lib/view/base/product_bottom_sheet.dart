@@ -471,7 +471,7 @@ class _ProductBottomSheetState extends State<ProductBottomSheet> {
                             child: Center(
                               child: TextField(
                                 keyboardType: TextInputType.number,
-                                onSubmitted: (v) {
+                                onChanged: (v) {
                                   productController.setQuantities(int.parse(v));
                                 },
                                 decoration: InputDecoration(

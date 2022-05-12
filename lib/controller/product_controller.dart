@@ -70,6 +70,7 @@ class ProductController extends GetxController implements GetxService {
 
   setQuantities(int v) {
     _quantity = v;
+    update();
   }
 
   Future<void> getReviewedProductList(
